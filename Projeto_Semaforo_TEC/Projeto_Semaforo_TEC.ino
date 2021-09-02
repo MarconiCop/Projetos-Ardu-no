@@ -1,9 +1,9 @@
 void setup(){
-  pinMode(9, OUTPUT); // LED verde pedestres
-  pinMode(10, OUTPUT); // LED vermelho pedestres
-  pinMode(11, OUTPUT); // LED verde carros
-  pinMode(12, OUTPUT); // LED amarelo carros
-  pinMode(13, OUTPUT); // LED vermelho carros
+  pinMode(9, OUTPUT); // LED verde de pedestres
+  pinMode(10, OUTPUT); // LED vermelho de pedestres
+  pinMode(11, OUTPUT); // LED verde de carros
+  pinMode(12, OUTPUT); // LED amarelo de carros
+  pinMode(13, OUTPUT); // LED vermelho de carros
 }
 
 void loop(){
